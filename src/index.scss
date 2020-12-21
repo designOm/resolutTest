@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+}
+
+.PageContent {
+  background-color: #fff;
+  border-radius: 10px;
+  height: calc(100vh - 40px);
+  overflow-y: auto;
+  flex-basis: 0;
+  flex-grow: 1;
+  max-width: 100%;
+  padding: 0 10px 10px 50px;
+  &::-webkit-scrollbar {
+    width: 2px;
+  }
+  @media (max-width: 540px) {
+    height: 100%;
+    border-radius: 0;
+    padding: 0 12pt;
+    padding-bottom: 0;
+    overflow: unset;
+    &::-webkit-scrollbar {
+      width: 0;
+    }
+  }
+}
+
+@keyframes slideIn {
+  0% {
+    bottom: -100%;
+    opacity: 0;
+  }
+  100% {
+    bottom: 20px;
+    opacity: 1;
+  }
+}
+
+@keyframes slideOut {
+  0% {
+    bottom: 20px;
+    opacity: 1;
+  }
+  100% {
+    bottom: -100%;
+    opacity: 0;
+  }
+}
+
+@keyframes menuIn {
+  from {
+    top: 0;
+    opacity: 0;
+    height: 10px;
+  }
+  to {
+    top: 110%;
+    opacity: 1;
+    height: auto;
+  }
+}
+
+@keyframes menuOut {
+  form {
+    top: 110%;
+    opacity: 1;
+    height: auto;
+  }
+  to {
+    top: 0;
+    opacity: 0;
+    height: 10px;
+  }
+}
