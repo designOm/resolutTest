@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/resolutTest/static/css/main.a3d2757c.chunk.css",
+    "main.js": "/resolutTest/static/js/main.25711596.chunk.js",
+    "main.js.map": "/resolutTest/static/js/main.25711596.chunk.js.map",
+    "runtime-main.js": "/resolutTest/static/js/runtime-main.f9b8af22.js",
+    "runtime-main.js.map": "/resolutTest/static/js/runtime-main.f9b8af22.js.map",
+    "static/js/2.3fecafb1.chunk.js": "/resolutTest/static/js/2.3fecafb1.chunk.js",
+    "static/js/2.3fecafb1.chunk.js.map": "/resolutTest/static/js/2.3fecafb1.chunk.js.map",
+    "static/js/3.00afce4a.chunk.js": "/resolutTest/static/js/3.00afce4a.chunk.js",
+    "static/js/3.00afce4a.chunk.js.map": "/resolutTest/static/js/3.00afce4a.chunk.js.map",
+    "index.html": "/resolutTest/index.html",
+    "static/css/main.a3d2757c.chunk.css.map": "/resolutTest/static/css/main.a3d2757c.chunk.css.map",
+    "static/js/2.3fecafb1.chunk.js.LICENSE.txt": "/resolutTest/static/js/2.3fecafb1.chunk.js.LICENSE.txt",
+    "static/media/Img_1.b1f53576.png": "/resolutTest/static/media/Img_1.b1f53576.png",
+    "static/media/Img_2.ac3d986e.png": "/resolutTest/static/media/Img_2.ac3d986e.png",
+    "static/media/Img_4.eae4b1a3.png": "/resolutTest/static/media/Img_4.eae4b1a3.png",
+    "static/media/Menu.391cb284.svg": "/resolutTest/static/media/Menu.391cb284.svg",
+    "static/media/Message.0bd4813d.svg": "/resolutTest/static/media/Message.0bd4813d.svg",
+    "static/media/Notification.24c4d8bf.svg": "/resolutTest/static/media/Notification.24c4d8bf.svg",
+    "static/media/Property.f86e1d2b.png": "/resolutTest/static/media/Property.f86e1d2b.png",
+    "static/media/all-properties.f0271988.svg": "/resolutTest/static/media/all-properties.f0271988.svg",
+    "static/media/arrow2-down.39290d06.svg": "/resolutTest/static/media/arrow2-down.39290d06.svg",
+    "static/media/credit.3ff24b29.svg": "/resolutTest/static/media/credit.3ff24b29.svg",
+    "static/media/dp.344746f5.jpg": "/resolutTest/static/media/dp.344746f5.jpg",
+    "static/media/infoMessageIcon.ac93524c.svg": "/resolutTest/static/media/infoMessageIcon.ac93524c.svg",
+    "static/media/m-logo.6267a6d9.svg": "/resolutTest/static/media/m-logo.6267a6d9.svg",
+    "static/media/portfolio.89919e50.svg": "/resolutTest/static/media/portfolio.89919e50.svg",
+    "static/media/power.58017002.svg": "/resolutTest/static/media/power.58017002.svg",
+    "static/media/save-money.f5369749.svg": "/resolutTest/static/media/save-money.f5369749.svg",
+    "static/media/transparency.645d0af3.svg": "/resolutTest/static/media/transparency.645d0af3.svg",
+    "static/media/user.8cab7b59.svg": "/resolutTest/static/media/user.8cab7b59.svg",
+    "static/media/wallet_alt.2cdd995b.svg": "/resolutTest/static/media/wallet_alt.2cdd995b.svg",
+    "static/media/wolfPack.65d9280b.svg": "/resolutTest/static/media/wolfPack.65d9280b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9b8af22.js",
+    "static/js/2.3fecafb1.chunk.js",
+    "static/css/main.a3d2757c.chunk.css",
+    "static/js/main.25711596.chunk.js"
+  ]
+}
